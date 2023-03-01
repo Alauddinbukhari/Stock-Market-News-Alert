@@ -15,7 +15,7 @@ You can install them using the following command:
 pip install -r requirements.txt
 
 
-Usage
+# Usage
 To use this script, you need to set the following environment variables:
 
 NEWS_API_KEY: your News API key
