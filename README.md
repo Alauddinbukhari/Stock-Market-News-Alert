@@ -7,3 +7,12 @@ This is a Python script that tracks daily stock data of a company and sends SMS 
  ```
  git clone https://github.com/{username}/{repository-name}.git
 ```
+2. Change directory to the project directory:
+```
+cd {repository-name}
+```
+3. Install the required packages:
+```
+pip install -r requirements.txt
+```
+# Usage
