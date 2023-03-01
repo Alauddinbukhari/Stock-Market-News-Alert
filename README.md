@@ -16,7 +16,7 @@ cd {repository-name}
 pip install -r requirements.txt
 ```
 # Usage
-1.Open the main.py file in a code editor.
+1.Open the 'main.py' file in a code editor.
 
 2.Set the value of STOCK_COMPANY and NEWS_COMPANY variables to the stock company and its name respectively.
 
