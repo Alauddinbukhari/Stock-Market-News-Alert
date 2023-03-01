@@ -43,7 +43,10 @@ if different_percentage>=1:
     news_params={
         "q":NEWS_COMPANY,
         "apiKey":News_API,
-        "searchIn":NEWS_COMPANY
+        "searchIn":"title","description"
+        
+        "from": {Date} 
+        "to": {Date}
     }
 
     # Make the news API request and get the top 3 articles
