@@ -4,6 +4,6 @@ This is a Python script that tracks daily stock data of a company and sends SMS 
 
 ## Installation
 1. Clone the repository to your local machine:
- '''
+ ```
  git clone https://github.com/{username}/{repository-name}.git
-'''
+```
